@@ -1,0 +1,11 @@
+{
+  "name": "canvas_shapes_wasm",
+  "version": "1.0.0",
+  "description": "Canvas Shape Animation with WASM",
+  "main": "server.js",
+  "author": "Marco A Molinaro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
